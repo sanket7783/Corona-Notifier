@@ -29,5 +29,5 @@ while True:
     n.show() 
 
     # short delay between notifications 
-    time.sleep(300) 
+    time.sleep(3600) 
 
