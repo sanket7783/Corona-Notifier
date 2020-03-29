@@ -7,4 +7,5 @@ Requirements:
 3. notify2
 
 Run this with
-python notifier.py
+```python notifier.py
+```
